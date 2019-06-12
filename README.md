@@ -1,14 +1,14 @@
-# xeline computation client
+# xeline 计算端
 [![Build Status](https://travis-ci.org/xel-software/xeline.svg?branch=master)](https://travis-ci.org/xel-software/xeline)
 
-xeline is a client to submit tasks to the xel computation network
+xeline主要功能是向xel计算网络提交任务的客户端
 
-Important : This is not a wallet, and should not be used as one ! Some key feature to manage xel coins are missing, if you need to manage your coins use the officials wallets (desktop or web)
+重要提示：这个不是XEL钱包, 因为不包含管理硬币一些关键功能，如果你需要管理你的硬币建议使用官方钱包（安装版钱包或网络钱包）
 
-## installation
+## 安装
 
-### binaries
-Quickest way is to use the official binaries : https://github.com/xel-software/xeline/releases
+### 二进制
+最快的方法是使用官方二进制文件 : https://github.com/xel-software/xeline/releases
 
 ### from sources
 - install nodeJS (https://nodejs.org)
@@ -38,21 +38,22 @@ docker run --rm -ti \
 
 
 ----
-## Improve it
+## 帮助改进
 
-  - we love **pull requests**
-  - we love issues (resolved ones actually ;-) )
-  - in any case, make sure you leave **your ideas**
-  - assist others on the issue tracker
-  - **review** existing code and pull requests
 
-----
-## Troubleshooting (XEL Reference Software)
-
-  - UI Errors or Stacktraces?
-    - report on github
+  - 我们乐见你多提交请求
+  - 我们喜欢问题（实际解决的问题）
+  - 在任何事情上，请确保留下你的意见
+  - 在问题跟踪上可以协助其他人
+  - 审核现有代码和提交请求
 
 ----
-## Further Reading
+## 故障排除
+
+  - UI错误或追踪？
+    - 汇报在GITHUB上
+
+----
+## 更多消息
 
   - on discord : https://link.xel.org/discord
